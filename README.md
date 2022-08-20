@@ -9,6 +9,8 @@ This is meant as a simple example project against which to try different testing
 
 # Getting Started
 
+- Create a virtual environment (venv, conda, etc.)
+- Run pip install -r requirements.txt to install the required libraries 
 - Open the database_creation.py file and run the create_db_table function
 - Run the Flask app in app.py
 - In the tests folder

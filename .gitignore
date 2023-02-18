@@ -1,3 +1,7 @@
 /comic_artist.db
 /tests/.pytest_cache/
 /tests/.hypothesis/
+.hypothesis
+__pycache__
+.vscode
+
